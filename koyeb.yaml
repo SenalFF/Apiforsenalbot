@@ -1,0 +1,6 @@
+name: youtube-downloader
+routes:
+  - path: /
+    port: 3000
+build:
+  dockerfile_path: ./Dockerfile
